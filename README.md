@@ -9,3 +9,4 @@ and it will use backtracking to solve the sudoku puzzle.
 - Python loops
 - Make console visible boards
 - Divisable coding
+- How to make and use an array
